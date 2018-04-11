@@ -1,3 +1,5 @@
+package test
+
 object scalaTest {
   def main(args: Array[String]): Unit = {
 

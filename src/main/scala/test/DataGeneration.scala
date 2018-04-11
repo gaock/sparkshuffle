@@ -1,3 +1,5 @@
+package test
+
 import java.io.{File, FileWriter}
 
 import scala.collection.mutable.ArrayBuffer

@@ -1,3 +1,5 @@
+package test
+
 import org.apache.spark.{SparkConf, SparkContext}
 
 object Test1 {
